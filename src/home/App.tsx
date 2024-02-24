@@ -2,7 +2,7 @@ import { SubmitHandler, useForm } from 'react-hook-form'
 import styles from './App.module.css'
 import { useState } from 'react'
 
-const isSuccess = false
+//const isSuccess = false
 
 interface IFormState {
 	name: string
